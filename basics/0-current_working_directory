@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "/home/project1/basics/0-current_working_directory"
+printf "$ ./project1/basics/0-current_working_directory"
