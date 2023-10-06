@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "/home/project1/holbertonschool-shell/basics"
+printf "./project1/holbertonschool-shell/basics"
