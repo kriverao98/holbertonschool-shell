@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "/koralro/project1/holbertonschool-shell/basics/0-current_working_directory"
+printf "./basics/0-current_working_directory"
