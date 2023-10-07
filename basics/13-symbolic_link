@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s /Users/koralro/project1/holbertonschool-shell/basics/bin/ls _ls_
+ln -s /Users/koralro/project1/holbertonschool-shell/basics/bin/ls __ls__
