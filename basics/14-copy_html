@@ -1,2 +1,2 @@
 #!/bin/bash
-cp --uptade *.html ./
+cp -n *.html ./
