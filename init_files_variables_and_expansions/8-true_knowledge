@@ -1,2 +1,2 @@
 #!/bin/bash
-export TRUEKNOWLEDGE="value" | expr "$value + 128"
+export TRUEKNOWLEDGE="1209" | expr $1209 + 128
